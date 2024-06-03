@@ -1,0 +1,3 @@
+In Python you can use for
+In python you can use while
+In python you can do you work easily
